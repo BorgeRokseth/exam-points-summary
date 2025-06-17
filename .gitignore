@@ -3,3 +3,11 @@
 
 # Optional: explicitly ignore a data folder if that's where you store input
 /data/
+
+
+# IDE/project settings
+.idea/
+.vscode/
+*.env
+*.venv/
+__pycache__/
