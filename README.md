@@ -46,8 +46,9 @@ Run:
 python justify.py
 ```
 
-You'll be prompted to enter a `CandidateExternalId`, and a justification will be printed for copy-pasting.
+You'll be prompted to enter a `CandidateExternalId`, and a justification will be printed for copy-pasting. You can then paste this directly in the appropriate textbox in Inspera.
 
+It is highly recommended to double check correctness before submitting a justification
 
 ## License
 
