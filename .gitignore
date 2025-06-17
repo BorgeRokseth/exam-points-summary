@@ -1,0 +1,5 @@
+# Ignore all CSV files anywhere in the repo
+*.csv
+
+# Optional: explicitly ignore a data folder if that's where you store input
+/data/
