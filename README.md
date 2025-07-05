@@ -1,17 +1,6 @@
 # Exam Points Summary Tool
 
-This tool helps generate individualized justifications ("begrunnelser") for student exam grades based on a CSV export from the grading system. It supports both command-line and GUI usage and is designed to be fast, safe, and easy to use.
-
----
-
-## Features
-
-- Generate per-student explanations based on manual and automatic grading
-- Load grading configuration from a YAML file
-- Quickly copy justifications into your browser form with a GUI
-- Prevents accidental upload of sensitive data
-
----
+This tool helps generate justifications ("begrunnelser") for student exam grades based on a CSV export from "Inspera". It supports both command-line and GUI usage.
 
 ## Setup
 
